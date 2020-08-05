@@ -24,10 +24,10 @@
     "player.title": "Jogador",
     "player.infinite-stamina": "Energia infinita",
     "player.infinite-health": "Vida infinita",
-    "player.instant-cooldowns": "Instant Weapon Cooldowns", // TODO
-    "player.inventory-size": "Inventory Size", // TODO
+    "player.instant-cooldowns": "Cooldowns Instantâneo das armas",
+    "player.inventory-size": "Tamanho do Inventário", // TODO
     "player.movement-speed": "Velocidade de movimento",
-    "player.movement-speed.default": "normal", // TODO
+    "player.movement-speed.default": "normal", // (normal is normal in pt)
     "player.one-hit-kill": "Matar monstros com um golpe",
     "player.max-daily-luck": "Sorte diária máxima",
 
@@ -181,14 +181,14 @@
     "warp.sewer": "Esgotos",
 
     // forest
-    "warp-section.forest": "Forest", // TODO
+    "warp-section.forest": "Floresta", // TODO
     "warp.hats": "Chapéus",
     "warp.ranch": "Rancho da Marnie",
     "warp.secret-woods": "Bosque Secreto",
     "warp.wizard-tower": "Torre do Mago",
 
     // mountain
-    "warp-section.mountain": "Mountain", // TODO
+    "warp-section.mountain": "Montanha", // TODO
     "warp.adventurers-guild": "Guilda dos Aventureiros",
     "warp.bathhouse": "Spa",
     "warp.quarry": "Pedreira",
@@ -199,7 +199,7 @@
     "warp.willy-shop": "Peixaria",
 
     // desert
-    "warp-section.desert": "Desert", // TODO
+    "warp-section.desert": "Deserto", // TODO
     "warp.casino": "Cassino",
     "warp.sandy-shop": "Loja Oásis",
     "warp.skull-cavern": "Caverna da Caveira",
@@ -241,7 +241,7 @@
     "controls.freeze-time": "Parar o tempo",
     "controls.grow-tree": "Crescer árvores",
     "controls.grow-crops": "Crescer plantações",
-    "controls.grow-radius": "Grow distance around player", // TODO
-    "controls.reset-controls": "Reset", // TODO
+    "controls.grow-radius": "Aumentar distancia de visão do player", // TODO
+    "controls.reset-controls": "Resetar", // TODO
     "controls.press-new-key": "Pressione uma nova tecla..."
 }
